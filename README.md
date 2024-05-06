@@ -4,24 +4,23 @@
 - 2020년 2분기
 
 ## 서버 및 네트워크 구성도
-![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/197db6d3-134a-4e5a-9aac-560aef80e0e4)
+![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/3ce4fed1-1e06-4e2a-92d2-d7e8c18635ae)
 
 - PM2 with Cluster Mode
 
-![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/02926588-cc67-4999-a592-2dfeee893f02)
+![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/7d3eef56-c57f-447a-b5bb-bbd032b7c61b)
 
 
 
 ## Database 구성(일부)
 ### T_SCHOOL_SCHEDULES(시험 일정)
-![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/e54f4a82-4df7-475c-9e9a-5e63d5259e41)
+![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/2e6aa506-c8c5-4c7c-9273-e5c553f1bb3b)
 
 ### T_SCHOOL_CLASSES(반별 시간표)
- ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/a1b8dbcb-c1bd-45a7-a8b5-c6296742ee34)
+![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/3a25867c-b673-42f8-a30b-97cb26d306a8)
 
 ### T_QUIZZES(게시글 작성용 퀴즈)
- ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/854371ef-f229-4ed2-bf33-a04cf0e83148)
+![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/8a2d87c7-7f7e-4671-b14d-8871e66bdc8c)
 
 ### T_BOARD(게시글)
- ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/3db71948-fd09-40a3-8c1b-d483a5a19ce5)
-
+![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/4f33e184-7782-4716-95ec-c2039479931a)
