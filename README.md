@@ -1,7 +1,8 @@
 # Dongcheon-Alimi-API
-[동천알리미 안드로이드 어플리케이션](https://github.com/Neibce/Dongcheon-Alimi)의 API SERVER
+[동천알리미 안드로이드 어플리케이션](https://github.com/Neibce/Dongcheon-Alimi)의 RESTful API Server
 - Node.js with Express and PM2, Google Firebase SDK(admin), MariaDB, NGINX for Reverse proxy
 - 2020년 2분기
+- 전체 설명은 [어플리케이션 README](https://github.com/Neibce/Dongcheon-Alimi) 참고
 
 ## 서버 및 네트워크 구성도
 ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/3ce4fed1-1e06-4e2a-92d2-d7e8c18635ae)
@@ -23,7 +24,7 @@
 ### /images (이미지 반환)
   - /:imageName
     
-## Database 구성(일부)
+## Database 구성(실제 내용 중 일부)
 ### T_SCHOOL_SCHEDULES(시험 일정)
 ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/2e6aa506-c8c5-4c7c-9273-e5c553f1bb3b)
 
