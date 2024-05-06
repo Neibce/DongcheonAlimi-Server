@@ -10,8 +10,19 @@
 
 ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/7d3eef56-c57f-447a-b5bb-bbd032b7c61b)
 
-
-
+### /schedules (시간표)
+  - /:grade/:class
+### /exams (시험 일정)
+  - /:year
+### /classes (학년 별 반 개수)
+  - /count/:grade
+### /board (게시판)
+  - /new /list /:postId /:postId/delete /:postId/edit /
+### /quiz (퀴즈)
+  - /new /check-answer
+### /images (이미지 반환)
+  - /:imageName
+    
 ## Database 구성(일부)
 ### T_SCHOOL_SCHEDULES(시험 일정)
 ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/2e6aa506-c8c5-4c7c-9273-e5c553f1bb3b)
