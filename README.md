@@ -1,4 +1,4 @@
-# Dongcheon-Alimi-API
+# DongcheonAlimi-Server
 [동천알리미 안드로이드 어플리케이션](https://github.com/Neibce/Dongcheon-Alimi)의 RESTful API Server
 - Node.js with Express and PM2, Google Firebase SDK(admin), MariaDB, NGINX for Reverse proxy
 - 2020년 2분기
