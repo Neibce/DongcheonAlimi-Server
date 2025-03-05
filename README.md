@@ -11,6 +11,7 @@
 
 ![image](https://github.com/Neibce/Dongcheon-Alimi-API/assets/18096595/7d3eef56-c57f-447a-b5bb-bbd032b7c61b)
 
+## API 명세
 ### /schedules (시간표)
   - ```/:grade/:class```
 ### /exams (시험 일정)
